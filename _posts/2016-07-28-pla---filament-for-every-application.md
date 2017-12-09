@@ -14,14 +14,18 @@ As a result there is a high potential for PLA to be very desirable for short lif
 
 ## The ABS challenger
 
-ABS has been the plastic of choice for engineering applications due to its impressive mechanical and thermal properties with the trade-off being notoriously difficult to print and toxic when printed.
+ABS has been the plastic of choice for engineering applications due to its impressive mechanical and thermal properties, with the trade-off being notoriously difficult to print and toxic.
 
-Avoid the ABS bugbears while maintaining impressive mechanical properties with the newest generation of PLA filaments. Polymakers™ PC-Max™ filament boasts:
+Avoid the ABS bugbears while maintaining impressive mechanical properties with the newest generation of PLA filaments. Polymakers™ PolyMax™ PLA filament boasts:
 
-> "Excellent Mechanical Strength : Parts made with Polymaker PC-Max™ shows much improved mechanical strength compared to ABS and PLA under almost any deformation test.
+> Extremely Tough : Regular PLA is a very brittle material, which greatly limits its range of applications. PolyMax™ PLA was designed to change this. Featuring increased impact strength of up to 9 times that of regular PLA and 20% better than ABS, PolyMax™ PLA is a sure winner when it comes to toughness. So if you are looking for a material that can withstand your mechanically demanding tasks, PolyMax™ PLA is up to the challenge.
 
-> Extreme Toughness : Polymaker PC-Max™ offers the absolute best in toughness that is simply unobtainable from other 3D printing materials of similar stiffness. This makes Polymaker PC-Max™ an excellent choice for real-world, engineering applications.
+> Uncompromised Quality : The good mechanical strength of PolyMax™ PLA is achieved with no compromise in printing quality. As PolyMax™ PLA is also produced with Jam-Free™ technology you can be certain you will get high quality prints with excellent strength while still enjoying the ease of printing PLA.
 
-> Heat Resistance: Polymaker PC-Max™ offers better heat resistance than almost all other 3D printing materials currently in the market. It can withstand temperatures well above 110 &ordm;C.
+> ABS? No More : Still printing ABS while trying to endure the odour and potential health risk? With PolyMax™ PLA you can get rid of that potentially hazardous ABS and still achieve the same structural strength with even more benefits such better printer compatibility, easier printing, less warping, no hazardous odours, and in many cases even better mechanical properties.
+
+Although PLA cannot match the thermal properties of ABS due to a lower glass transition temperature, mechanical properties can be matched with the much user friendly PLA.
 
 &nbsp;
+
+## PLA&nbsp;*is&nbsp;*Flexible
