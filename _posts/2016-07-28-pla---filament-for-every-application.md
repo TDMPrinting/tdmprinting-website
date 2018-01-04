@@ -30,4 +30,4 @@ Although PLA cannot match the thermal properties of ABS due to a lower glass tra
 
 Ok, while it's not *strictly*PLA, it is a similar natural based biopolymer, so like PLA it'll naturally degrade. It's also easy to print with and gives consistent results.
 
-Flexible 3D prints open yet another door of possibilities, from flexible joints and bushes, to applications requiring a softer grip, such as robotic arms or tyres.
+Flexible 3D prints open yet another door of possibilities, from flexible joints and bushes, to applications requiring a softer grip, such as robotic arms or tyres.![](/uploads/versions/flex-image-opt---x----481-322x---.jpg)
