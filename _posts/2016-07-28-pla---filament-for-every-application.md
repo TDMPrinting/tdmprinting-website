@@ -8,7 +8,7 @@ show_comments: true
 ---
 
 
-PLA, or Polylactic acid is a biodegradable and bioactive thermoplastic aliphatic polyester, derived from renewable resources, typically corn starch or sugarcane. This characteristic makes it an attractive material for environmentally friendly applications. &nbsp;For example, a PLA bottle in open ocean would typically degrade in six to 24 months. A conventional plastic in the same environment can take several hundred to a thousand years to degrade.
+PLA, or Polylactic acid is a biodegradable and 'bioactive' thermoplastic aliphatic polyester, obtained from renewable resources such as corn starch or sugarcane. This makes it an attractive material for environmentally friendly applications. &nbsp;For example, a PLA bottle in open ocean could degrade in six to 24 months. A conventional plastic in the same environment can take several hundred to a thousand years to degrade. It is worth noting that the degradation time in landfill is comparable with other plastics.
 
 As a result there is a high potential for PLA to be very desirable for short lifespan applications where biodegradability is sought, such as one off prototype parts or low volume production items.&nbsp; Despite its ability to biodegrade when exposed to the elements, PLA can be very robust in the vast majority of 3D printed cases.
 
@@ -26,6 +26,8 @@ Avoid the ABS bugbears while maintaining impressive mechanical properties with t
 
 Although PLA cannot match the thermal properties of ABS due to a lower glass transition temperature, mechanical properties can be matched with the much user friendly PLA.
 
-&nbsp;
-
 ## PLA&nbsp;*is&nbsp;*Flexible
+
+Ok, while it's not *strictly*PLA, it is a similar natural based biopolymer, so like PLA it'll naturally degrade. It's also easy to print with and gives consistent results.
+
+Flexible 3D prints open yet another door of possibilities, from flexible joints and bushes, to applications requiring a softer grip, such as robotic arms or tyres.
