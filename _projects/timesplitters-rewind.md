@@ -8,4 +8,4 @@ image_path: '/images/IMG_7693[1].JPG'
 
 For a highly anticipated game I was tasked with recreating a piece of the games 2D Art.
 
-The original image was imported into Autodesk Inventor
+The original image was imported into Autodesk Inventor, from the there model was built around the image, so the proportions were correct.
