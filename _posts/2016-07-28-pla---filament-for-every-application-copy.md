@@ -1,35 +1,20 @@
 ---
-title: PLA - Filament for every application
+title: Seb was here
 categories:
-  - Filament
-  - PLA
+  - admin
+  - tinkering
 author_staff_member:
 show_comments: true
 ---
 
+# Don't leave me
 
-PLA, or Polylactic acid is a biodegradable and 'bioactive' thermoplastic aliphatic polyester, obtained from renewable resources such as corn starch or sugarcane. This makes it an attractive material for environmentally friendly applications. &nbsp;For example, a PLA bottle in open ocean could degrade in six to 24 months. A conventional plastic in the same environment can take several hundred to a thousand years to degrade. It is worth noting that the degradation time in landfill is comparable with other plastics.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia eros felis, in volutpat arcu dapibus eu. Ut pellentesque convallis tortor id bibendum. Phasellus mauris dolor, viverra sit amet mauris sed, ornare pharetra urna. Integer a libero ac eros vestibulum congue. Donec vehicula tristique orci quis ultrices. Praesent pulvinar malesuada enim. Pellentesque sagittis arcu vel dolor molestie egestas. Integer sed porta ex. Vivamus lacus odio, aliquet ac nunc ut, egestas mattis dolor. Maecenas egestas nibh diam, eu aliquet velit egestas vulputate. Integer lacinia, leo in vehicula efficitur, sem sem aliquam massa, sed suscipit magna risus aliquam sem. Ut sollicitudin malesuada placerat. Pellentesque ac fringilla lectus. Nullam et fringilla quam.
 
-As a result there is a high potential for PLA to be very desirable for short lifespan applications where biodegradability is sought, such as one off prototype parts or low volume production items.&nbsp; Despite its ability to biodegrade when exposed to the elements, PLA can be very robust in the vast majority of 3D printed cases.
+Aliquam ac velit vel ex congue faucibus vel non ex. Fusce euismod, quam at euismod consectetur, elit tellus blandit lacus, ac vulputate ex nisi nec lacus. Quisque rhoncus urna lacus, at tincidunt odio molestie vel. Vivamus lobortis lectus eros, et aliquam lorem aliquam a. Aenean sed posuere risus. Pellentesque blandit sodales dui quis pellentesque. Cras pharetra mollis viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur vulputate tincidunt tellus id tincidunt. Donec mollis vulputate ante, vitae iaculis ligula tempus ut. Nunc ultrices tristique tristique. Nam nec ligula non sapien ornare lobortis ac id ex. In sed auctor risus. Ut faucibus consequat turpis, at suscipit elit tincidunt at.
 
-## The ABS challenger
+Cras blandit libero at lacus malesuada, iaculis sollicitudin nulla rutrum. Vivamus ultricies mollis condimentum. Aenean faucibus velit et dui bibendum, ut dictum tellus rutrum. Praesent blandit pharetra eleifend. Integer dignissim sed diam at aliquam. Sed eu turpis nisl. Sed pellentesque at elit non varius. Maecenas ut metus suscipit, gravida magna non, tincidunt dui. Nunc at euismod justo. Praesent congue in quam consequat euismod. Nullam iaculis felis mi, vitae interdum felis cursus ut. Donec malesuada nulla eget maximus tempor.
 
-ABS has been the plastic of choice for engineering applications due to its impressive mechanical and thermal properties, with the trade-off being notoriously difficult to print and toxic.
+Cras sem quam, fermentum quis aliquet id, faucibus quis quam. In vehicula turpis eget quam scelerisque varius. Suspendisse velit purus, porttitor in mollis in, lacinia at arcu. Curabitur lectus tortor, egestas eget elit vel, lobortis ultricies urna. Curabitur feugiat sodales sagittis. Vestibulum ac justo lectus. Ut pretium elit et venenatis bibendum.
 
-Avoid the ABS bugbears while maintaining impressive mechanical properties with the newest generation of PLA filaments. Polymakers™ PolyMax™ PLA filament boasts:
-
-> Extremely Tough : Regular PLA is a very brittle material, which greatly limits its range of applications. PolyMax™ PLA was designed to change this. Featuring increased impact strength of up to 9 times that of regular PLA and 20% better than ABS, PolyMax™ PLA is a sure winner when it comes to toughness. So if you are looking for a material that can withstand your mechanically demanding tasks, PolyMax™ PLA is up to the challenge.
-
-> Uncompromised Quality : The good mechanical strength of PolyMax™ PLA is achieved with no compromise in printing quality. As PolyMax™ PLA is also produced with Jam-Free™ technology you can be certain you will get high quality prints with excellent strength while still enjoying the ease of printing PLA.
-
-> ABS? No More : Still printing ABS while trying to endure the odour and potential health risk? With PolyMax™ PLA you can get rid of that potentially hazardous ABS and still achieve the same structural strength with even more benefits such better printer compatibility, easier printing, less warping, no hazardous odours, and in many cases even better mechanical properties.
-
-Although PLA cannot match the thermal properties of ABS due to a lower glass transition temperature, mechanical properties can be matched with the much user friendly PLA.
-
-## PLA&nbsp;*is&nbsp;*Flexible
-
-Ok, while it's not *strictly&nbsp;*PLA, it is a similar natural based biopolymer, so like PLA it'll naturally degrade. It's also easy to print with and gives consistent results.
-
-Flexible 3D prints open yet another door of possibilities, from flexible joints and bushes, to applications requiring a softer grip, such as robotic arms or tyres.![](/uploads/versions/flex-image-opt---x----481-322x---.jpg)
-
-Customers can pick the type of filament based on its Shore Hardness level, so specific requirements can be catered for.
+Suspendisse eros mauris, accumsan a tempor ut, fermentum ut ante. Quisque porttitor ante orci, ac consequat arcu pretium ut. Vivamus non nisl ex. Aliquam efficitur erat eget lectus sagittis, viverra venenatis sem dapibus. Praesent finibus placerat ligula sed tristique. Nam ligula tortor, suscipit et convallis sit amet, iaculis eu urna. Suspendisse iaculis, libero quis vehicula ornare, velit lorem mollis leo, eget placerat sapien lectus nec lorem. Sed molestie, odio eu convallis finibus, magna elit scelerisque ex, non aliquet neque elit at ligula. Pellentesque felis augue, congue non tincidunt id, sollicitudin faucibus orci. Vestibulum eu consequat odio.
