@@ -20,6 +20,8 @@ layout: default
 		<div>
 			{{ content }}
 		</div>
+		{% if page.external_url %}
 		<p><a href="{{ page.external_url }}">View {{ page.title }} &rarr;</a></p>
+		{% endif %}
 	</div>
 </section>
