@@ -1,8 +1,8 @@
 ---
-name: Edition Template
+name: Edition Template Seb
 subtitle: Product documentation template for Jekyll
 external_url: 'https://github.com/CloudCannon/edition-jekyll-template'
-image_path: /images/clients/edition.png
+image_path: /images/pattern.png
 ---
 
 
