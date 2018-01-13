@@ -18,6 +18,8 @@ He we can see the individual properties of each shape at work, allowing an attra
 
 ![](/uploads/versions/crest-render-detail-1---x----500-293x---.jpeg)
 
-The finished product is created with extra details added, such as radii on the rope loops and buckle. The choice of font had to be changed from the original model. Times New Roman, the most closely resembling font to the original image was not suitable as there are thin parts on the text that cannot be printed with accuracy when scaled down. Tahoma was used instead as the text is more chunky with equal width around the letters. A tag is added at the top of the model so it can be held on a key ring
+The finished product is created with extra details added, such as radii on the rope loops and buckle. The choice of font had to be changed from the original model. Times New Roman, the most closely resembling font to the original image was not suitable as there are thin parts on the text that cannot be printed with accuracy when scaled down. Tahoma was used instead as the text is more chunky with equal width around the letters. A tag is added at the top of the model so it can be held on a key ring.
+
+The model was then printed in high strength PLA.
 
 ![](/uploads/versions/crest-render-1---x----675-627x---.jpeg)
