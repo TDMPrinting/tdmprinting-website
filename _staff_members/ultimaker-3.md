@@ -14,9 +14,11 @@ This is not your average supermarket 3D printer, used around the globe for proto
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MG2TXP809iw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-Ultimaker 3 Specifications | Less |
+Ultimaker 3 Specifications |  |
 --- | --- |
-Printer and printing properties | `renders`
-1 | 2 |
+Printer and printing properties | 
+Layer resolution |  0.25 mm nozzle: 150 - 60 micron
+0.40 mm nozzle: 200 - 20 micron
+0.80 mm nozzle: 600 - 20 micron |
 
 &nbsp;
