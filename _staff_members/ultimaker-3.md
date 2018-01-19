@@ -10,4 +10,6 @@ twitter:
 
 > Ultimaker 3 has a powerful, low-noise fan system. Featuring two new radial fans and fan shrouds, it creates greater pressure build-up for an improved airflow. This ensures better cooling, high quality bridging, faster print runs and smooth print surfaces.
 
+This is not your average supermarket 3D printer, used around the globe for prototyping, tooling to hobbyist model making, the Ultimaker 3 delivers high quality parts - consistently.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MG2TXP809iw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
