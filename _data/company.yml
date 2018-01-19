@@ -2,5 +2,5 @@ title: TDMPrinting
 description: 3D Printing for Professionals
 contact_email_address: contact@example.com
 contact_phone_number:
-address: '123 Example Street, Gooseburb, 9876, Ducktown, New Zealand'
-postal_address: 'PO Box 123, Ducktown, New Zealand'
+address:
+postal_address:
