@@ -14,9 +14,9 @@ This is not your average supermarket 3D printer, used around the globe for proto
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MG2TXP809iw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-Ultimaker 3 Specifications | Less | Pretty
---- | --- | ---
-Printer and printing properties | `renders` | **nicely**
- | 2 | 3
+Ultimaker 3 Specifications | Less |
+--- | --- |
+Printer and printing properties | `renders`
+1 | 2 |
 
 &nbsp;
