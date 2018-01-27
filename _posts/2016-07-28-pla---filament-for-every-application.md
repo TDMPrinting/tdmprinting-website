@@ -33,3 +33,5 @@ Ok, while it's not *strictly&nbsp;*PLA, it is a similar natural based biopolymer
 Flexible 3D prints open yet another door of possibilities, from flexible joints and bushes, to applications requiring a softer grip, such as robotic arms or tyres.![](/uploads/versions/flex-image-opt---x----481-322x---.jpg)
 
 Customers can pick the type of filament based on its Shore Hardness level, so specific requirements can be catered for.
+
+When it comes to 3D printing, it's all about the filament, and with new with variations being developed with surprising new properties, there's something for everyone.
