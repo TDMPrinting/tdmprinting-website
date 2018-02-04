@@ -1,6 +1,6 @@
 ---
 name: Family Crest
-hide_content: true
+hide_content: false
 subtitle: Converting 2D Work into 3D Models
 external_url: 'https://github.com/CloudCannon/edition-jekyll-template'
 image_path: /uploads/crest-render-2.jpeg
