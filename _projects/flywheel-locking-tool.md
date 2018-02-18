@@ -3,6 +3,7 @@ name: Flywheel Locking Tool
 subtitle: 'Rapid, Rapid Prototyping'
 external_url:
 image_path: /images/model-in-situ.JPG
+title_override: 'Flywheel Locking Tool'
 ---
 
 
