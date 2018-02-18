@@ -1,4 +1,4 @@
-title: Urban Template
+title: TDM Printing
 url: "https://tdmprinting.github.io"
 baseurl:
 google_analytics_key:
@@ -10,13 +10,13 @@ description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name:
-  email:
+  name: Dan Lathan
+  email: dan_lathan@hotmail.co.uk
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: TDM Printing
   links:
     - https://github.com/CloudCannon/urban-jekyll-template
 
