@@ -3,6 +3,7 @@ name: Impressive Detail
 subtitle: 'TimeSplitters: Rewind'
 external_url: 'https://github.com/CloudCannon/cause-jekyll-template'
 image_path: /images/monkey_icon.jpeg
+title_override: 'TimeSplitters Rewind'
 ---
 
 
