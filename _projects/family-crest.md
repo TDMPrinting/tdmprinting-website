@@ -1,7 +1,7 @@
 ---
 name: Family Crest
 subtitle: Converting 2D Work into 3D Models
-external_url: ''
+external_url: 
 image_path: /uploads/crest_render_2.2.png
 ---
 
