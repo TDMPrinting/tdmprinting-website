@@ -1,11 +1,10 @@
 ---
-name: Flywheel Locking Tool
+name: Engine Rebuild Tooling
 subtitle: 'Rapid, Rapid Prototyping'
 external_url:
 image_path: /images/model-in-situ.JPG
-title_override: 'Flywheel Locking Tool'
+title_override: Engine Rebuild Tooling
 ---
-
 
 This project shows the powerful benefits of rapid prototyping, as the component went from initial drawing to finished component in an afternoon.
 
