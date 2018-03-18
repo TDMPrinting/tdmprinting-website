@@ -6,7 +6,7 @@ image_path: /images/monkey_icon.jpeg
 title_override: 'TimeSplitters: Rewind'
 ---
 
-For a highly anticipated game I was tasked with recreating a piece of the games 2D Art.
+For a highly anticipated game I was tasked with recreating parts of the games 2D Art.
 
 The original image was imported into Autodesk Inventor, from the there model was built around the image, so the proportions were correct. Without any previous 3D interpretations of this design, I made a version of the design based on the context.
 
@@ -21,3 +21,7 @@ Where possible models are designed so that they do not require supporting struct
 ![](/uploads/versions/pendant-closeup-2---x----500-375x---.JPG)
 
 The part shown is pictured without any post-processing, from here the part can be smoothed, painted or sprayed for additional visual changes.
+
+Another element of 2D art that was created was the logo. This can be printed without supports and can be displayed freestanding. It could be used for promotional purposes at shows, to advertise the game in stores or simply as a desk ornament.
+
+![](/uploads/versions/timesplitters-rewind-logo---x----500-227x---.PNG)
