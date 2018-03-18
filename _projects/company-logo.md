@@ -2,7 +2,7 @@
 name: Company Logo
 subtitle:
 external_url:
-image_path: /uploads/Venture_Verse_1.JPG
+image_path: /uploads/company_logo.JPG
 ---
 
 This project encompasses the variety of company, game and personal logos we have created for customers.
