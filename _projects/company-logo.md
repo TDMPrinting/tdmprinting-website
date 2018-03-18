@@ -17,10 +17,10 @@ This next print is for a local engineering company. Using bright blue PLA to mat
 
 ![](/uploads/versions/ferrositi-web-image---x----500-375x---.JPG)
 
-TDM Printing caters to a wide variety of customers with whatever 3D printing requirements they bring with them. The next print is for a gaming Youtuber, combining his name and logo into a desk piece.
+TDM Printing caters to a wide variety of customers with whatever 3D printing requirements they bring with them. The next print is for a popular gaming Youtuber, combining his name and logo into a desk piece.
 
 ![](/uploads/versions/classyham-1---x----500-233x---.PNG)
 
 ![](/uploads/versions/classyham-2---x----500-327x---.JPG)
 
-Again using the premium 'Diamond Black' filament, this object
+Again using the premium 'Diamond Black' filament, this object is an attractive object for a desk, or to catch the attention of viewers for promotion.
