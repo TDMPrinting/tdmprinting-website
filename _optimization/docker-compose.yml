@@ -1,0 +1,16 @@
+version: '2.1'
+
+services:
+  img_optim_images:
+    image: colthreepv/docker-image_optim
+    command: image_optim -r /images/
+    volumes:
+      - "./../images:/images/"
+      - "./config:/root/.config/"
+
+  img_optim_uploads:
+    image: colthreepv/docker-image_optim
+    command: image_optim -r /images/
+    volumes:
+      - "./../uploads:/images/"
+      - "./config:/root/.config/"
