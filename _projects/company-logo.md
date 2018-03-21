@@ -3,6 +3,7 @@ name: Company Logo
 subtitle:
 external_url:
 image_path: /uploads/company-logo-teaser.JPG
+title_override: Company Logo
 ---
 
 This project encompasses some of the company, game and personal logos we have created for customers.
