@@ -2,7 +2,7 @@
 name: Family Crest
 subtitle: Converting 2D Work into 3D Models
 external_url: 
-image_path: /uploads/crest-render-2.png
+image_path: /uploads/crest-render-2.jpeg
 title_override: 'Family Crest'
 ---
 
