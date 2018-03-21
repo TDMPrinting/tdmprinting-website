@@ -2,7 +2,7 @@
 name: Company Logo
 subtitle:
 external_url:
-image_path: /uploads/company_logo.JPG
+image_path: /uploads/company-logo-teaser.JPG
 ---
 
 This project encompasses the variety of company, game and personal logos we have created for customers.
