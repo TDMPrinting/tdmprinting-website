@@ -1,24 +1,24 @@
 title: TDM Printing
-url: "https://tdmprinting.github.io"
+url: "https://tdmprinting.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key: AIzaSyD2gvKhFwkvvqiFudnOiNzXrGqkDEItMFw
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: TDMPrinting - 3D Printing for Professionals
 
 # Author details for the jekyll-seo-tag gem
 author:
   name: Dan Lathan
-  email: dan_lathan@hotmail.co.uk
+  email: info@tdmprinting.com
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
   name: TDM Printing
-  links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+  #links:
+  #  - https://github.com/CloudCannon/urban-jekyll-template
 
 collections:
   staff_members:
