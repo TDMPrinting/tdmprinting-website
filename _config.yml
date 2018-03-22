@@ -39,6 +39,7 @@ gems:
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-archives"
+  - "jekyll-sitemap"
 
 defaults:
   - scope:
