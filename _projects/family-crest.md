@@ -2,7 +2,7 @@
 name: Family Crest
 subtitle: Converting 2D Work into 3D Models
 external_url: 
-image_path: /uploads/crest_render_2.2.png
+image_path: /uploads/crest-render-2.jpg
 title_override: 'Family Crest'
 ---
 
@@ -14,7 +14,7 @@ The process began with the basic shape which would go on to form the base or bac
 
 ![](/uploads/versions/crest-render-3---x----394-251x---.jpeg)
 
-He we can see the individual properties of each shape at work, allowing an attractive looking form to be achieved on certain parts of the model. Creating the model from scratch allows a level of interpretation of the 2D image, and how that might translate into a 3D shape.
+Here we can see the individual properties of each shape at work, allowing an attractive looking form to be achieved on certain parts of the model. Creating the model from scratch allows a level of interpretation of the 2D image, and how that might translate into a 3D shape.
 
 ![](/uploads/versions/crest-render-detail-1---x----500-293x---.jpeg)
 

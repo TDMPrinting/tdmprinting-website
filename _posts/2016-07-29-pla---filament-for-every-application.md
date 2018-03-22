@@ -7,9 +7,9 @@ author_staff_member:
 show_comments: true
 ---
 
-PLA, or Polylactic acid is a biodegradable and 'bioactive' thermoplastic aliphatic polyester, obtained from renewable resources such as corn starch or sugarcane. This makes it an attractive material for environmentally friendly applications. &nbsp;For example, a PLA bottle in open ocean could degrade in six to 24 months. A conventional plastic in the same environment can take several hundred to a thousand years to degrade. It is worth noting however that the degradation time in landfill is comparable with other plastics.
+PLA, or Polylactic acid is a biodegradable and ‘bioactive thermoplastic aliphatic polyester', obtained from renewable resources such as corn starch or sugarcane. This makes it an attractive material for environmentally friendly 3D printing. For example, a PLA bottle in open ocean could degrade in six to 24 months. A conventional plastic in the same environment can take several hundred to a thousand years to degrade. (It is worth noting however that the degradation time in landfill is comparable with other plastics.)
 
-As a result there is a high potential for PLA to be very desirable for short lifespan applications where biodegradability is sought, such as one off prototype parts or low volume production items.&nbsp; Despite its ability to biodegrade when exposed to the elements, PLA can be very robust in the vast majority of 3D printed cases.
+As a result there is a high potential for PLA to be very desirable for many applications where biodegradability is advantageous when considering the total product lifespan, such as one off prototype parts or low volume production items.&nbsp; Despite its ability to biodegrade natually, PLA can be very robust in the vast majority of 3D printed cases.
 
 ## The ABS challenger
 
@@ -27,7 +27,7 @@ Although PLA cannot match the thermal properties of ABS due to a lower glass tra
 
 ## PLA&nbsp;*is&nbsp;*Flexible
 
-Ok, while it's not *strictly&nbsp;*PLA, it is a similar natural based biopolymer, so like PLA it'll naturally degrade. It's also easy to print and gives consistent results.
+Ok, while it’s not *strictly&nbsp;*PLA, it is a similar natural based biopolymer, so like PLA it’ll naturally degrade. It’s also easy to print and gives consistent results.
 
 Flexible 3D prints open yet another door of possibilities, from flexible joints and bushes, to applications requiring a softer grip, such as robotic arms or tyres.![](/uploads/versions/flex-image-opt---x----481-322x---.jpg)
 
@@ -35,8 +35,8 @@ Customers can pick the type of filament based on its Shore Hardness level, so sp
 
 ## Find your finish
 
-When it comes to 3D printing, it's all about the filament, and with PLA variations increasing in popularity, there's something for everyone.
+When it comes to 3D printing, it’s all about the filament, and with PLA variations increasing in popularity, there’s something for everyone.
 
-With new filaments appearing on the market every week there are no shortages of design choices. From premium quality PLA to bright, transparent grades, or metallic effect grades, it's just a case of picking your style.
+With new filaments appearing on the market every week there are no shortages of design choices. From premium quality PLA to bright, transparent grades, or metallic effect grades, it’s just a case of picking your style.
 
 ![](/uploads/versions/colorfabb-ngen-lux---x----500-333x---.jpg)![](/uploads/versions/colorfabb-transparent---x----500-333x---.jpg)

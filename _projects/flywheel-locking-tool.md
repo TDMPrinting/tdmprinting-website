@@ -14,6 +14,6 @@ From this initial drawing, the customer created a model of their desired compone
 
 ![](/uploads/versions/model-printer---x----500-375x---.JPG)
 
-The component is used to lock a clutch flywheel to make its removal easier. Such a device is not available for purchase, the process for removal would be difficult and time consuming without.
+The component is used to lock a clutch flywheel to make its removal easier. Such a device is not available for purchase, and the process for removal would be difficult and time consuming without it.
 
-With 3D Printing a bespoke component can be made very rapidly, drastically reducing downtime.
+With 3D Printing, a bespoke component can be made very rapidly, drastically reducing downtime.
