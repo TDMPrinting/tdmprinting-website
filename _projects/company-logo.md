@@ -2,7 +2,7 @@
 name: Company Logo
 subtitle:
 external_url:
-image_path: /uploads/company-logo-teaser.JPG
+image_path: /uploads/company-logo-teaser.jpg
 title_override: Company Logo
 ---
 
