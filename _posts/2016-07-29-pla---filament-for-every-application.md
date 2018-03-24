@@ -2,7 +2,6 @@
 title: PLA - Filament for every application
 categories:
   - Filament
-  - PLA
 author_staff_member:
 show_comments: true
 ---
