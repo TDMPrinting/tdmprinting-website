@@ -26,3 +26,5 @@ The following colours are in stock, but additional colours can be used depending
 * Wood effect
 * Lime Green
 * Yellow
+
+Contact us at info@tdmprinting.com for more details.
