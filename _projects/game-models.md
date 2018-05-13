@@ -3,6 +3,7 @@ name: Game Models
 subtitle: Monkey Bust
 external_url:
 image_path: /images/monkey-bust-teaser.jpg
+title_override: Game Models
 ---
 
 Working with a talented character artist, busts of characters from a popular game franchise were recreated.
