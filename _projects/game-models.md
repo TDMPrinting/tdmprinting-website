@@ -11,4 +11,14 @@ These show off the high detail capabilities of the Ultimaker 3, using breakaway 
 
 Printable in a variety of materials to suit personal preference, from premium quality black filament, to wood, to transparent.
 
-&nbsp;
+The following colours are in stock, but additional colours can be used depending on demand.
+
+* Black
+* Premium Black (nGen\_LUX)
+* Blue
+* Red
+* White
+* Pearl White
+* Wood effect
+* Lime Green
+* Yellow
