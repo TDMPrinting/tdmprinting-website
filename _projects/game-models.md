@@ -9,7 +9,11 @@ Working with a talented character artist, busts of characters from a popular gam
 
 These show off the high detail capabilities of the Ultimaker 3, using breakaway support material to produce a clean print with zero post processing. However these prints can be post processed to add different styles, such as smoothed to remove the printing lines.
 
-Printable in a variety of materials to suit personal preference, from premium quality black filament, to wood, to transparent.
+![](/images/monkey-bust-2.jpg)
+
+Printable in a variety of materials to suit personal preference, from premium quality black filament, to wood, to transparent. The models are 80mm, the perfect size for a desk model.
+
+![](/images/monkey-bust.jpg)
 
 The following colours are in stock, but additional colours can be used depending on demand.
 
