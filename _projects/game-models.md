@@ -12,7 +12,7 @@ These show off the high detail capabilities of the Ultimaker 3, using breakaway 
 
 ![](/images/monkey-bust-2.jpg)
 
-Printable in a variety of materials to suit personal preference, from premium quality black filament, to wood, to transparent. The models are 80mm, the perfect size for a desk model.
+Printable in a variety of materials to suit personal preference, from premium quality black filament, to wood, to transparent. The models are 80mm high, the perfect size for a desk model.
 
 ![](/images/monkey-bust.jpg)
 
